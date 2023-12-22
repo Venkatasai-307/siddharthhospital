@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+}
+.pic1{
+    float: left;
+   
+}
+.pic2 img{
+    margin-top: 20px;
+    margin-left: 70px;
+    float: left;
+}
+.pic3 img{
+    margin-top: 20px;
+    margin-left: 70px;
+    float: left;
+}
+.pic4 img{
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.pic5 img{
+    margin-top: 20px;
+    margin-left: 70px;
+    float: left;
+}
+.pic6 img{
+    margin-top: 20px;
+    margin-left: 70px;
+    float: left;
+}
+.pic7 img{
+    margin-top: 20px;
+    margin-left: 70px;
+    float: left;
+}
+.pic8 img{
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.box{
+    animation-name: sai;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+@keyframes sai{
+    to{
+        background-color: blue;
+        height: 100vh;
+    }
+    from{
+        background-color: palevioletred;
+        height: 100vh;
+    }
+}

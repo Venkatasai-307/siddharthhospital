@@ -1,0 +1,22 @@
+.box{
+    width: 800px;
+    height: 500px;
+    border: 3px solid black;
+    margin-left:400px;
+    background-image: url(image\ doctor-with-stethoscope-hands-hospital-background_1423-1.avif);
+    background-size: cover;
+}
+.icon{
+    font-size: xx-large;
+    margin-left: 120px;
+}
+
+.icon i{
+    margin-left: 20px;
+}
+.icon:hover{
+    color: blue;
+}
+.box a{
+    margin-top: 30px;
+}
